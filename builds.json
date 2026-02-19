@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-19 19:06:25",
+  "updated_at": "2026-02-19 19:17:40",
   "builds": {
     "W_apocalypse": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo2resurrected-warlock-build-apocalypse",
@@ -15,7 +15,7 @@
           ],
           "rows": [
             [
-              "",
+              "混沌",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163203.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 炎の輪（Ring of Fire）",
               "20",
               "全方向に広がる地獄の炎を一斉に放ち敵を押しのける",
@@ -23,7 +23,7 @@
               "火の波：火炎ダメージ+10%（レベルごと）\n終焉：火炎ダメージ+10%（レベルごと）"
             ],
             [
-              "",
+              "混沌",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163206.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 火の波（Flame Wave）",
               "20",
               "前方に進む炎の波を放ち通った後の地面を燃やす",
@@ -31,7 +31,7 @@
               "火の波：火炎ダメージ+15%（レベルごと）\n火の波：毎秒の平均火炎ダメージ+10%（レベルごと）\n終焉：火炎ダメージ+15%（レベルごと）\n終焉：毎秒の平均火炎ダメージ+10%（レベルごと）"
             ],
             [
-              "",
+              "混沌",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163230.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 紋章：沈滞（Sigils: Lethargy）",
               "1",
               "地面に紋章を描き、敵の動きを鈍らせ、弱体化させる",
@@ -39,7 +39,7 @@
               "ー"
             ],
             [
-              "",
+              "混沌",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163227.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 紋章：怨恨（Sigils: Rancor）",
               "1",
               "地面に紋章を描き、敵を怒らせて確率で同士討ちさせる",
@@ -47,7 +47,7 @@
               "ー"
             ],
             [
-              "",
+              "混沌",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163217.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 紋章：死（Sigils: Death）",
               "1",
               "地面に紋章を描き、激しい爆発で負傷した敵の死を早める",
@@ -55,7 +55,7 @@
               "ー"
             ],
             [
-              "",
+              "混沌",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163220.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 終焉（Apocalypse）",
               "20",
               "全ての敵を炎で包み込むペンタグラムを作成する\n終焉のダメージに対して、敵の火炎耐性を低下させる",
@@ -71,7 +71,7 @@
               "死の刻印：クラッシング・ブローの確率+1%（レベルごと）"
             ],
             [
-              "",
+              "悪魔",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163141.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 死の刻印（Death Mark）",
               "1",
               "使役中の悪魔をテレポートさせ、敵を攻撃させる",
@@ -79,7 +79,7 @@
               "ー"
             ],
             [
-              "",
+              "悪魔",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163145.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 血瘤腫（Blood Boil）",
               "1",
               "使役中の悪魔の血を爆破させ、近くの敵にダメージを与える",
@@ -87,7 +87,7 @@
               "血の契約：火炎ダメージ+20%（レベルごと）\n貪り：ダメージ+20%（レベルごと）"
             ],
             [
-              "",
+              "悪魔",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163148.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 貪り（Engorge）",
               "1",
               "使役中の悪魔に死体を食らわせ、回復および強化する",
@@ -95,7 +95,7 @@
               "血の契約：防御力+25（レベルごと）\r\n血の契約：ライフ回復+5（レベルごと）"
             ],
             [
-              "",
+              "悪魔",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163313.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> テインテッド召喚（Summon Tainted）",
               "1",
               "テインテッドを召喚して戦わせる",
@@ -103,7 +103,7 @@
               "血瘤腫：火炎ダメージ+30%（レベルごと）"
             ],
             [
-              "",
+              "悪魔",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163303.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 悪魔マスター（Demonic Mastery）",
               "20（ボーナス込み）",
               "常時発動 - 召喚および捕縛した悪魔を強化する",
@@ -111,7 +111,7 @@
               "ー"
             ],
             [
-              "",
+              "悪魔",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163306.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 血の契約（Blood Oath）",
               "1",
               "常時発動 - 使役中の悪魔の生命力を固定し敵の攻撃を防ぐ",
@@ -119,7 +119,7 @@
               "ー"
             ],
             [
-              "",
+              "悪魔",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163309.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 捕食（Consume）",
               "1",
               "使役中の悪魔を犠牲にして力を得る",
@@ -127,7 +127,7 @@
               "ー"
             ],
             [
-              "",
+              "悪魔",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163317.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> ディファイラー召喚（Summon Defiler）",
               "1",
               "ディファイラーを召喚し、敵同士の魂を結びつけダメージを共有させる",
@@ -135,7 +135,7 @@
               "ー"
             ],
             [
-              "",
+              "悪魔",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163320.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 悪魔捕縛（Bind Demon）",
               "1",
               "負傷した悪魔を意のままに操る",
