@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-19 21:21:41",
+  "updated_at": "2026-02-19 21:56:27",
   "builds": {
     "W_apocalypse": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo2resurrected-warlock-build-apocalypse",
@@ -300,7 +300,7 @@
             [
               "メインハンド",
               "RW 無限（Infinity）",
-              ""
+              "【ベース】ジャイアント・スレッシャー（イシリアル）"
             ],
             [
               "オフハンド",
@@ -315,7 +315,7 @@
             [
               "鎧",
               "RW 不屈（Fortitude）",
-              ""
+              "【ベース】アルコン・プレート（イシリアル）"
             ]
           ]
         }
@@ -457,7 +457,7 @@
             [
               "",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163303.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 悪魔マスター（Demonic Mastery）",
-              "20（ボーナス込み）",
+              "1",
               "常時発動 - 召喚および捕縛した悪魔を強化する",
               "ー",
               "ー"
@@ -497,8 +497,8 @@
             [
               "合計ポイント",
               "",
-              "115",
-              "Lv104+クエスト報酬（Lv99時点での余剰ポイント-5）",
+              "96",
+              "Lv85+クエスト報酬（Lv99時点での余剰ポイント14）",
               "",
               ""
             ]
@@ -652,7 +652,7 @@
             [
               "メインハンド",
               "RW 誇り（Pride）",
-              ""
+              "【ベース】ジャイアント・スレッシャー（イシリアル）"
             ],
             [
               "オフハンド",
@@ -667,7 +667,271 @@
             [
               "鎧",
               "RW 名誉の連鎖（Chains of Honor）",
+              "【ベース】アルコン・プレート（イシリアル）"
+            ]
+          ]
+        }
+      }
+    },
+    "W_bind-demon": {
+      "url": "https://innomaroom.hatenablog.com/entry/diablo2resurrected-warlock-build-bind-demon",
+      "data": {
+        "skill_tree": {
+          "header": [
+            "カテゴリ",
+            "スキル名",
+            "習得Lv",
+            "効果",
+            "前提スキル",
+            "ボーナススキル"
+          ],
+          "rows": [
+            [
+              "混沌",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163230.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 紋章：沈滞（Sigils: Lethargy）",
+              "1",
+              "地面に紋章を描き、敵の動きを鈍らせ、弱体化させる",
+              "ー",
+              "ー"
+            ],
+            [
+              "悪魔",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163300.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> ゴートマン召喚（Summon Goatman）",
+              "20",
+              "ゴートマンを召喚して戦わせる",
+              "ー",
+              "死の刻印：クラッシング・ブローの確率+1%（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163141.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 死の刻印（Death Mark）",
+              "20",
+              "使役中の悪魔をテレポートさせ、敵を攻撃させる",
+              "ゴートマン召喚",
+              "ー"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163145.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 血瘤腫（Blood Boil）",
+              "1",
+              "使役中の悪魔の血を爆破させ、近くの敵にダメージを与える",
+              "死の刻印",
+              "血の契約：火炎ダメージ+20%（レベルごと）\n貪り：ダメージ+20%（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163148.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 貪り（Engorge）",
+              "1",
+              "使役中の悪魔に死体を食らわせ、回復および強化する",
+              "血瘤腫",
+              "血の契約：防御力+25（レベルごと）\r\n血の契約：ライフ回復+5（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163313.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> テインテッド召喚（Summon Tainted）",
+              "1",
+              "テインテッドを召喚して戦わせる",
+              "ゴートマン召喚",
+              "血瘤腫：火炎ダメージ+30%（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163303.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 悪魔マスター（Demonic Mastery）",
+              "20（ボーナス込み）",
+              "常時発動 - 召喚および捕縛した悪魔を強化する",
+              "ー",
+              "ー"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163306.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 血の契約（Blood Oath）",
+              "1",
+              "常時発動 - 使役中の悪魔の生命力を固定し敵の攻撃を防ぐ",
+              "悪魔マスター",
+              "ー"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163320.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 悪魔捕縛（Bind Demon）",
+              "20",
+              "負傷した悪魔を意のままに操る",
+              "貪り\nディファイラー召喚",
+              "死の刻印：悪魔を捕縛する確率+1%（レベルごと）"
+            ],
+            [
+              "合計ポイント",
+              "",
+              "85",
+              "Lv74+クエスト報酬（Lv99時点での余剰ポイント25）",
+              "",
               ""
+            ]
+          ]
+        },
+        "equip1": {
+          "header": [
+            "部位",
+            "アイテム名",
+            "備考（RWのおすすめベース、RW以外のおすすめソケット）"
+          ],
+          "rows": [
+            [
+              "メインハンドⅠ",
+              "RW 執着（Obsession）",
+              "【ベース】アルコン・スタッフ"
+            ],
+            [
+              "オフハンドⅠ",
+              "？（Ars Tor'Baalos）",
+              "【ソケット】アム・ルーン（全属性耐性）または イスト・ルーン（MF）"
+            ],
+            [
+              "メインハンドⅡ",
+              "RW 神木の心（Heart of the Oak / HotO）",
+              "【ベース】クリスタル・ソード"
+            ],
+            [
+              "オフハンドⅡ",
+              "RW 精霊（Spirit）",
+              "【ベース】モナーク"
+            ],
+            [
+              "兜",
+              "RW （Coven）",
+              "【ベース】ボーン・ビセッジ"
+            ],
+            [
+              "鎧",
+              "RW 不知（Enigma）",
+              "【ベース】メイジ・プレート"
+            ],
+            [
+              "手袋",
+              "トラン=オールの鉤爪（Trang-Oul's Claws）",
+              ""
+            ],
+            [
+              "靴",
+              "ウォー・トラベラー（War Traveler）",
+              ""
+            ],
+            [
+              "ベルト",
+              "アラクニド・メッシュ（Arachnid Mesh）",
+              ""
+            ],
+            [
+              "アミュレット",
+              "ブラッドクラフトアイテム",
+              "【理想特性】\nウォーロックの全スキルレベル+2\n移動速度+10%\nライフ吸収4%\nライフ+20\n全属性耐性+20\nマジックアイテムドロップ率（MF）+35%"
+            ],
+            [
+              "指輪",
+              "ヨルダンの石（Stone of Jordan）",
+              ""
+            ],
+            [
+              "指輪",
+              "ヨルダンの石（Stone of Jordan）",
+              ""
+            ],
+            [
+              "護符",
+              "アニヒラス（Annihilus）\n業火のたいまつ（Hellfire Torch）\nギードの運気（Gheed's Fortune）\n骨食み（The Bone Break : Sunder Charm）",
+              "【その他の護符のおすすめ特性】\n〈悪魔〉カテゴリの全スキル+1\nライフ\n任意の属性耐性\nマジックアイテムドロップ率（MF）"
+            ]
+          ]
+        },
+        "equip2": {
+          "header": [
+            "部位",
+            "アイテム名",
+            "おすすめ特性"
+          ],
+          "rows": [
+            [
+              "メインハンドⅠ",
+              "RW 執着（Obsession）\nRW 神木の心（Heart of the Oak / HotO）\nRW （Void）\nRW 精霊（Spirit）\nRW 洞察（Insight）\nマング・ソングの教え（Mang Song's Lesson）\nオンダルの知恵（Ondal's Wisdom）\nレイザースイッチ（Razorswitch）\nスーサイド・ブランチ（Suicide Branch）\nスペクトラル・シャード（Spectral Shard）\nウィザードスパイク（Wizardspike）",
+              "【最優先】\n全スキルレベル\nウォーロックの全スキルレベル\nスキル発動速度（FCR）\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\n全属性耐性"
+            ],
+            [
+              "オフハンドⅠ",
+              "？（Ars Tor'Baalos）\n？（Ars Al'Diabolos）\nRW 精霊（Spirit）\n無蓋の防壁（Lidless Wall）\nRW 不死鳥（Phoenix）\n静かなる憤怒（Measured Wrath）\n？（Ars Dul'Mephistos）\nRW 壮麗（Splendor）\nRW 古の民の誓約（Ancient's Pledge）\nRW 韻（Rhyme）\nホラゾンの秘密（Horazon's Secrets）\nRW （Vigilance）",
+              "【最優先】\n全スキルレベル\nウォーロックの全スキルレベル\n〈悪魔〉カテゴリの全スキルレ\nスキル発動速度（FCR）\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nヒットリカバリー速度（FHR）\n全属性耐性\n凍結向こう\n装備時にLevelXX〈解放〉発動"
+            ],
+            [
+              "メインハンドⅡ",
+              "RW 召集（Call To Arms / CtA）\nアリババの剣（Blade Of Ali Baba）\nガル（Gull）\nナジの謎解き（Naj's Puzzler）\nマジックアイテム",
+              "【最優先】\n全スキルレベル\n\n【その他のおすすめ】\n〈テレポート〉チャージ\nマジックアイテムドロップ率（MF）"
+            ],
+            [
+              "オフハンドⅡ",
+              "RW 精霊（Spirit）\n無蓋の防壁（Lidless Wall）",
+              "全スキルレベル"
+            ],
+            [
+              "兜",
+              "レアアイテム\nマジックアイテム\nハーレクインの頂（Harlequin Crest）\n？（Hellwarden's Will）\nRW （Coven）\n永代の宝冠（Crown of Ages）\nRW 伝承（Lore）\nペザント・クラウン（Peasant Crown）\nホラゾンの秘密（Horazon's Secrets）",
+              "【最優先】\n全スキルレベル\nウォーロックの全スキルレベル\nスキル発動速度（FCR）\n敵の火炎耐性減少\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\n火炎スキルダメージ\n全属性耐性"
+            ],
+            [
+              "鎧",
+              "RW 不知（Enigma）\nRW （Authority）\nRW 隠密（Stealth）\nRW 名誉の連鎖（Chains of Honor）\nケ=ヘガンの知恵（Que-Hegan's Wisdom）\nヴァイパーマギの皮（Skin of the Vipermagi）\nスカルダーの激憤（Skullder's Ire）\nタル・ラシャの後見（Tal Rasha's Guardianship）\nホラゾンの支配（Horazon's Dominion）",
+              "【最優先】\n全スキルレベル\nウォーロックの全スキルレベル\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n火炎スキルダメージ\n全属性耐性"
+            ],
+            [
+              "手袋",
+              "メイジフィスト（Magefist）\nトラン=オールの鉤爪（Trang-Oul's Claws）\nチャンス・ガード（Chance Guards）\nレアアイテム",
+              "【最優先】\nスキル発動速度（FCR）\nマジックアイテムドロップ率（MF）\n全属性耐性\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ"
+            ],
+            [
+              "靴",
+              "レアアイテム\nウォーターウォーカー（Waterwalk）\nサンドストーム・トレック（Sandstorm Trek）\nウォー・トラベラー（War Traveler）\nアルダーの前進（Aldur's Advance）\nシルクウィーブ（Silkweave）\nキャスタークラフトアイテム\nホラゾンの遺産（Horazon's Legacy）\n？（Wraithstep）",
+              "【最優先】\n移動速度（FRW）\n任意の属性耐性\n\n【その他のおすすめ】\nヒットリカバリー速度（FHR）\nライフ\nマジックアイテムドロップ率（MF）"
+            ],
+            [
+              "ベルト",
+              "アラクニド・メッシュ（Arachnid Mesh）\nゴールドラップ（Goldwrap）\nキャスタークラフトアイテム\n？（Gheed's Wager）\n苦難の威光（Bane's Authority）",
+              "【最優先】\n全スキルレベル\nスキル発動速度（FCR）\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\n全属性耐性"
+            ],
+            [
+              "アミュレット",
+              "キャスタークラフトアイテム\nレアアイテム\nマーラの万華鏡（Mara's Kaleidoscope）\n？（Entropy Locket）\n宝珠の教え（Telling of Beads）",
+              "【最優先】\n全スキルレベル\nウォーロックの全スキルレベル\nスキル発動速度（FCR）\n全属性耐性\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）"
+            ],
+            [
+              "指輪",
+              "ヨルダンの石（Stone of Jordan）\nバル=カソスの結婚指輪（Bul-Kathos' Wedding Band）\nレアアイテム\nブラッドクラフトアイテム\n？（Opalvein）\n？（Sling）",
+              "【最優先】\n全スキルレベル\nスキル発動速度（FCR）\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\n全属性耐性"
+            ]
+          ]
+        },
+        "mercenary": {
+          "header": [
+            "部位",
+            "アイテム名",
+            "備考"
+          ],
+          "rows": [
+            [
+              "メインハンド",
+              "RW 誇り（Pride）",
+              "【ベース】ジャイアント・スレッシャー（イシリアル）"
+            ],
+            [
+              "オフハンド",
+              "－",
+              ""
+            ],
+            [
+              "兜",
+              "アンダリエルの面（Andariel's Visage）",
+              "【ソケット】宝玉：攻撃速度（IAS）、ダメージを強化+40%"
+            ],
+            [
+              "鎧",
+              "RW 名誉の連鎖（Chains of Honor）",
+              "【ベース】アルコン・プレート（イシリアル）"
             ]
           ]
         }
