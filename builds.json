@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-19 21:56:27",
+  "updated_at": "2026-02-19 22:57:27",
   "builds": {
     "W_apocalypse": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo2resurrected-warlock-build-apocalypse",
@@ -902,7 +902,7 @@
             [
               "指輪",
               "ヨルダンの石（Stone of Jordan）\nバル=カソスの結婚指輪（Bul-Kathos' Wedding Band）\nレアアイテム\nブラッドクラフトアイテム\n？（Opalvein）\n？（Sling）",
-              "【最優先】\n全スキルレベル\nスキル発動速度（FCR）\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\n全属性耐性"
+              "【最優先】\n全スキルレベル\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n全属性耐性"
             ]
           ]
         },
@@ -925,12 +925,12 @@
             ],
             [
               "兜",
-              "アンダリエルの面（Andariel's Visage）",
+              "ヴァンパイア・ゲイズ（Vampire Gaze）",
               "【ソケット】宝玉：攻撃速度（IAS）、ダメージを強化+40%"
             ],
             [
               "鎧",
-              "RW 名誉の連鎖（Chains of Honor）",
+              "RW 茨（Bramble）",
               "【ベース】アルコン・プレート（イシリアル）"
             ]
           ]
