@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-19 20:56:25",
+  "updated_at": "2026-02-19 21:21:41",
   "builds": {
     "W_apocalypse": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo2resurrected-warlock-build-apocalypse",
@@ -328,7 +328,7 @@
           "header": [
             "カテゴリ",
             "スキル名",
-            "SLv",
+            "習得Lv",
             "効果",
             "前提スキル",
             "ボーナススキル"
@@ -336,22 +336,6 @@
           "rows": [
             [
               "混沌",
-              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163203.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 炎の輪（Ring of Fire）",
-              "20",
-              "全方向に広がる地獄の炎を一斉に放ち敵を押しのける",
-              "ー",
-              "火の波：火炎ダメージ+10%（レベルごと）\n終焉：火炎ダメージ+10%（レベルごと）"
-            ],
-            [
-              "",
-              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163206.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 火の波（Flame Wave）",
-              "20",
-              "前方に進む炎の波を放ち通った後の地面を燃やす",
-              "炎の輪",
-              "火の波：火炎ダメージ+15%（レベルごと）\n火の波：毎秒の平均火炎ダメージ+10%（レベルごと）\n終焉：火炎ダメージ+15%（レベルごと）\n終焉：毎秒の平均火炎ダメージ+10%（レベルごと）"
-            ],
-            [
-              "",
               "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163230.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 紋章：沈滞（Sigils: Lethargy）",
               "1",
               "地面に紋章を描き、敵の動きを鈍らせ、弱体化させる",
@@ -359,28 +343,76 @@
               "ー"
             ],
             [
-              "",
-              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163227.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 紋章：怨恨（Sigils: Rancor）",
+              "エルドリッチ",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163214.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 呪印：苦難（Hex: Bane）",
               "1",
-              "地面に紋章を描き、敵を怒らせて確率で同士討ちさせる",
-              "紋章：沈滞",
-              "ー"
+              "武器に呪いをまとわせ、敵の能力を阻害し魔法ダメージを追加する",
+              "ー",
+              "ミラーブレード：魔法ダメージ+35%（レベルごと）\n呪印：粛清：魔法ダメージ+35%（レベルごと）\n捕食：魔法ダメージ+35%（レベルごと）\nエルドリッチブラスト：呪いの持続時間+0.2秒（レベルごと）"
             ],
             [
               "",
-              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163217.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 紋章：死（Sigils: Death）",
-              "1",
-              "地面に紋章を描き、激しい爆発で負傷した敵の死を早める",
-              "紋章：怨恨",
-              "ー"
-            ],
-            [
-              "",
-              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163220.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 終焉（Apocalypse）",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163151.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 呪印：粛清（Hex: Purge）",
               "20",
-              "全ての敵を炎で包み込むペンタグラムを作成する\n終焉のダメージに対して、敵の火炎耐性を低下させる",
-              "火の波\n紋章：死",
-              "炎の輪：火炎ダメージ+10%（レベルごと）\n火の波：火炎ダメージ+10%（レベルごと）"
+              "武器に呪いをまとわせ、敵に一定確率で爆発させる歪みを付与する",
+              "呪印：苦難",
+              "呪印：苦難：魔法ダメージ+10%（レベルごと）\nエルドリッチブラスト：魔法ダメージ+10%（レベルごと）\n紋章：死：爆破する確率+1%（レベルごと）\nエルドリッチブラスト：呪いの持続時間+0.2秒（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163236.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 浮遊マスター（Levitation mastery）",
+              "1",
+              "常時発動 - 装備中の武器を念力で浮遊させる能力を強化する",
+              "ー",
+              "ー"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163239.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 裂断（Cleave）",
+              "1",
+              "扇状に広がる攻撃を放ち、範囲内の全ての敵を攻撃する",
+              "浮遊マスター",
+              "ミラーブレード：ダメージ+10%（レベルごと）\n呪印：粛清：ダメージ+10%（レベルごと）\nエルドリッチブラスト：ダメージ+10%（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163243.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> サイキックウォード（Psychic Ward）",
+              "1",
+              "攻撃によるダメージを吸収し  \r\n近くの敵をスタンさせる念力の盾を作る",
+              "裂断",
+              "裂断：+15ダメージに耐える（レベルごと）\n浮遊マスター：+15ダメージに耐える（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163247.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> エルドリッチブラスト（Eldritch Blast）",
+              "1",
+              "呪われた敵に力を吸い取る魔法ダメージを与え\n発動中の呪いの持続時間を更新する",
+              "サイキックウォード",
+              "呪印：粛清：魔法ダメージ+50%（レベルごと）\r\nブレイドワープ：魔法ダメージ+50%（レベルごと）\r\nサイキックウォード：+2秒（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163250.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> エコーストライク（Echoing Strike）",
+              "20",
+              "敵を貫通する近接武器のエコーを作る",
+              "浮遊マスター",
+              "ミラーブレード：5レベルごとに追加エコー：1\r\nミラーブレード：ダメージ+5%（レベルごと）\r\nブレイドワープ：ダメージ+5%（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163254.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> ブレイドワープ（Blade Warp）",
+              "20",
+              "アストラル武器を投げて、落下地点にテレポートする",
+              "エコーストライク",
+              "ミラーブレード：魔法ダメージ+24%（レベルごと）\r\nエコーストライク：魔法ダメージ+24%（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163257.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> ミラーブレード（Mirrored Blades）",
+              "20",
+              "武器の鏡像を作って攻撃する",
+              "ブレイドワープ\nエルドリッチブラスト",
+              "ー"
             ],
             [
               "悪魔",
@@ -465,8 +497,8 @@
             [
               "合計ポイント",
               "",
-              "92",
-              "Lv81+クエスト報酬（Lv99時点での余剰ポイント18）",
+              "115",
+              "Lv104+クエスト報酬（Lv99時点での余剰ポイント-5）",
               "",
               ""
             ]
@@ -556,17 +588,17 @@
             [
               "メインハンドⅠ",
               "RW 不屈（Fortitude）\nRW 死の吐息（Breath of the Dying）\nRW 厄災（Plague）\nRW 死（Death）\nRW 洞察（Insight）\nRW 誓い（Oath）\nアース・シフター（Earth Shifter）\n処刑人の正義（Executioner's Justice）\n？（Dreadfang）\nグランドファーザー（The Grandfather）\n苦難の誓約者（Bane's Oathmaker）",
-              "全スキルレベル\nウォーロックの全スキルレベル\nx%の確率でデッドリー・ストライク（2倍ダメージ）を与える\nライフ吸収\nマナ吸収\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\nイシリアル"
+              "【最優先】\n全スキルレベル\nウォーロックの全スキルレベル\nx%の確率でデッドリー・ストライク（2倍ダメージ）を与える\nスキル発動速度（FCR）\n\n【その他のおすすめ】\nライフ吸収\nマナ吸収\nマジックアイテムドロップ率（MF）\nイシリアル"
             ],
             [
               "オフハンドⅠ",
               "？（Ars Dul'Mephistos）\nRW 精霊（Spirit）\n無蓋の防壁（Lidless Wall）\nRW 不死鳥（Phoenix）\nRW 壮麗（Splendor）\nRW 古の民の誓約（Ancient's Pledge）\nRW 韻（Rhyme）\nランス・ガード（Lance Guard）",
-              "全スキルレベル\nウォーロックの全スキルレベル\nx%の確率でデッドリー・ストライク（2倍ダメージ）を与える\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\nヒットリカバリー速度（FHR）\n全属性耐性\n装備時にLevelXX〈解放〉発動"
+              "【最優先】\n全スキルレベル\nウォーロックの全スキルレベル\nx%の確率でデッドリー・ストライク（2倍ダメージ）を与える\nスキル発動速度（FCR）\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nヒットリカバリー速度（FHR）\n全属性耐性\n装備時にLevelXX〈解放〉発動"
             ],
             [
               "メインハンドⅡ",
               "RW 召集（Call To Arms / CtA）\nアリババの剣（Blade Of Ali Baba）\nガル（Gull）\nナジの謎解き（Naj's Puzzler）\nマジックアイテム",
-              "全スキルレベル\n〈テレポート〉チャージ\nマジックアイテムドロップ率（MF）"
+              "【最優先】\n全スキルレベル\n\n【その他のおすすめ】\n〈テレポート〉チャージ\nマジックアイテムドロップ率（MF）"
             ],
             [
               "オフハンドⅡ",
@@ -576,37 +608,37 @@
             [
               "兜",
               "？（Hellwarden's Will）\nRW （Coven）\n永代の宝冠（Crown of Ages）\nRW デリリアム（Delirium*）\nアンダリエルの面（Andariel's Visage）\nスチールスカル（Stealskull）\nヴァンパイア・ゲイズ（Vampire Gaze）\nホラゾンの平静（Horazon's Countenance）\nRW 伝承（Lore）",
-              "全スキルレベル\nウォーロックの全スキルレベル\n〈火炎〉カテゴリの全スキルレベル\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n〈火炎〉スキルダメージ\n敵の火炎属性耐性減少\n全属性耐性"
+              "【最優先】\n全スキルレベル\nウォーロックの全スキルレベル\nスキル発動速度（FCR）\n\n【その他のおすすめ】\nライフ\nマナ\nライフ吸収\nマナ吸収\nマジックアイテムドロップ率（MF）\n全属性耐性"
             ],
             [
               "鎧",
               "RW 不知（Enigma）\nRW （Authority）\nRW 不屈（Fortitude）\nRW 隠密（Stealth）\nRW 名誉の連鎖（Chains of Honor）\nケ=ヘガンの知恵（Que-Hegan's Wisdom）\nヴァイパーマギの皮（Skin of the Vipermagi）\nスカルダーの激憤（Skullder's Ire）\nデュリエルズ・シェル（Duriel's Shell）\n勝者のシルク（Silks of the Victor）\nRW 勇猛（Lionheart）\nタル・ラシャの後見（Tal Rasha's Guardianship）\nRW 煙（Smoke）\nホラゾンの支配（Horazon's Dominion）\n苦難の幽影の外装（Bane's Wraithskin）",
-              "全スキルレベル\nウォーロックの全スキルレベル\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n〈火炎〉スキルダメージ\n全属性耐性"
+              "【最優先】\n全スキルレベル\nウォーロックの全スキルレベル\nスキル発動速度（FCR）\n全属性耐性\n\n【その他のおすすめ】\n防御力を強化+x%\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）"
             ],
             [
               "手袋",
               "トラン=オールの鉤爪（Trang-Oul's Claws）\nメイジフィスト（Magefist）\nブラッドクラフトアイテム\nチャンス・ガード（Chance Guards）\nブラッドフィスト（Bloodfist）\nソウル・ドレイナー（Soul Drainer）\nスチールレンド（Steelrend）\nブロクの手（The Hand of Broc）",
-              "〈火炎〉カテゴリの全スキルレベル\nスキル発動速度（FCR）\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\n全属性耐性"
+              "【最優先】\nライフ吸収\nマナ吸収\nスキル発動速度（FCR）\n\n【その他のおすすめ】\nダメージを強化+x%\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\n全属性耐性"
             ],
             [
               "靴",
               "ゴア・ライダー（Gore Rider）\nウォーターウォーカー（Waterwalk）\nサンドストーム・トレック（Sandstorm Trek）\nウォー・トラベラー（War Traveler）\nアルダーの前進（Aldur's Advance）\nシルクウィーブ（Silkweave）\nキャスタークラフトアイテム",
-              "移動速度（FRW）\nヒットリカバリー速度（FHR）\n任意の属性耐性\nライフ\nマジックアイテムドロップ率（MF）"
+              "【最優先】\n移動速度（FRW）\nx%の確率でデッドリー・ストライク（2倍ダメージ）を与える\n\n【その他のおすすめ】\nヒットリカバリー速度（FHR）\n任意の属性耐性\nライフ\nマジックアイテムドロップ率（MF）"
             ],
             [
               "ベルト",
               "アラクニド・メッシュ（Arachnid Mesh）\nゴールドラップ（Goldwrap）\n？（Gheed's Wager）\nノスフェラトゥのコイル（Nosferatu's Coil*）\n削いだ耳の腰帯（String of Ears）\nキャスタークラフトアイテム\n苦難の威光（Bane's Authority）\n不死王の飾り帯（Immortal King's Detail）\nウィルヘルムの誇り（Wilhelm's Pride）",
-              "全スキルレベル\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n全属性耐性"
+              "【最優先】\n全スキルレベル\nライフ吸収\nマナ吸収\nスキル発動速度（FCR）\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\n全属性耐性"
             ],
             [
               "アミュレット",
               "ハイロードの怒り（Highlord's Wrath）\nキャスタークラフトアイテム\nレアアイテム\nマーラの万華鏡（Mara's Kaleidoscope）\nセラフの賛美歌（Seraph's Hymn）\nクレセント・ムーン（Crescent Moon）\nエトリックの瞳（The Eye of Etlich）\n宝珠の教え（Telling of Beads）",
-              "全スキルレベル\nウォーロックの全スキルレベル\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n全属性耐性"
+              "【最優先】\n全スキルレベル\nウォーロックの全スキルレベル\nライフ吸収\nマナ吸収\nスキル発動速度（FCR）\n全属性耐性\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）"
             ],
             [
               "指輪",
               "ヨルダンの石（Stone of Jordan）\nバル=カソスの結婚指輪（Bul-Kathos' Wedding Band）\nレアアイテム\nブラッドクラフトアイテム\nナーゲルリング（Nagelring）\n？（Opalvein）\n？（Sling）",
-              "全スキルレベル\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n〈火炎〉スキルダメージ\n全属性耐性"
+              "【最優先】\n全スキルレベル\nライフ吸収\nマナ吸収\nスキル発動速度（FCR）\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\n全属性耐性"
             ]
           ]
         },
