@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-02-19 19:20:35",
+  "updated_at": "2026-02-19 19:56:25",
   "builds": {
     "W_apocalypse": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo2resurrected-warlock-build-apocalypse",
@@ -156,38 +156,38 @@
           "header": [
             "部位",
             "アイテム名",
-            "備考((RWのおすすめベースアイテム、RW以外のおすすめソケットアイテム、マジック/レア/クラフトのおすすめ特性))"
+            "備考（RWのおすすめベース、RW以外のおすすめソケット）"
           ],
           "rows": [
             [
               "メインハンドⅠ",
               "RW 執着（Obsession）",
-              "アルコン・スタッフ"
+              "【ベース】アルコン・スタッフ"
             ],
             [
               "オフハンドⅠ",
               "？（Ars Al'Diabolos）",
-              "アム・ルーン（全属性耐性）または イスト・ルーン（MF）"
+              "【ソケット】アム・ルーン（全属性耐性）または イスト・ルーン（MF）"
             ],
             [
               "メインハンドⅡ",
               "RW 神木の心（Heart of the Oak / HotO）",
-              "クリスタル・ソード"
+              "【ベース】クリスタル・ソード"
             ],
             [
               "オフハンドⅡ",
               "RW 精霊（Spirit）",
-              "モナーク"
+              "【ベース】モナーク"
             ],
             [
               "兜",
               "RW 揺らめく炎（Flickering Flame）",
-              "ダイアデム"
+              "【ベース】ダイアデム"
             ],
             [
               "鎧",
               "RW 不知（Enigma）",
-              "メイジ・プレート"
+              "【ベース】メイジ・プレート"
             ],
             [
               "手袋",
@@ -221,8 +221,328 @@
             ],
             [
               "護符",
-              "アニヒラス（Annihilus）\n業火のたいまつ（Hellfire Torch）\nギードの運気（Gheed's Fortune）",
+              "アニヒラス（Annihilus）\n業火のたいまつ（Hellfire Torch）\nギードの運気（Gheed's Fortune）\n穿つ炎（The Flame Rift : Sunder Charm）",
               "【その他の護符のおすすめ特性】\n〈混沌〉カテゴリの全スキル+1\nライフ\n任意の属性耐性\nマジックアイテムドロップ率（MF）"
+            ]
+          ]
+        },
+        "equip2": {
+          "header": [
+            "部位",
+            "アイテム名",
+            "おすすめ特性"
+          ],
+          "rows": [
+            [
+              "メインハンドⅠ",
+              "RW 神木の心（Heart of the Oak / HotO）\nRW 洞察（Insight）\nRW 精霊（Spirit）\nRW 葉（Leaf）\nヘックスファイア（Hexfire）\nマング・ソングの教え（Mang Song's Lesson）\nオンダルの知恵（Ondal's Wisdom）\nレイザースイッチ（Razorswitch）\nスーサイド・ブランチ（Suicide Branch）\nウィザードスパイク（Wizardspike）\nRW （Mania）",
+              "全スキルレベル\nウォーロックの全スキルレベル\n〈火炎〉カテゴリの全スキルレベル\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n〈火炎〉スキルダメージ\n全属性耐性"
+            ],
+            [
+              "オフハンドⅠ",
+              "RW 精霊（Spirit）\nRW 不死鳥（Phoenix）\n無蓋の防壁（Lidless Wall）\n静かなる憤怒（Measured Wrath）\n？（Ars Tor'Baalos）\n？（Ars Dul'Mephistos）\nRW 壮麗（Splendor）\nRW 古の民の誓約（Ancient's Pledge）\nRW 韻（Rhyme）\nホラゾンの秘密（Horazon's Secrets）",
+              "全スキルレベル\nウォーロックの全スキルレベル\n〈火炎〉カテゴリの全スキルレベル\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\nヒットリカバリー速度（FHR）\n〈火炎〉スキルダメージ\n全属性耐性\n凍結無効\n装備時にLevelXX〈解放〉発動"
+            ],
+            [
+              "メインハンドⅡ",
+              "ナジの謎解き（Naj's Puzzler）\nアリババの剣（Blade Of Ali Baba）\nガル（Gull）\nマジックアイテム",
+              "全スキルレベル\n〈テレポート〉チャージ\nマジックアイテムドロップ率（MF）"
+            ],
+            [
+              "オフハンドⅡ",
+              "RW 精霊（Spirit）\n無蓋の防壁（Lidless Wall）",
+              "全スキルレベル"
+            ],
+            [
+              "兜",
+              "ハーレクインの頂（Harlequin Crest）\n永代の宝冠（Crown of Ages）\nRW 伝承（Lore）\nペザント・クラウン（Peasant Crown）\nホラゾンの平静（Horazon's Countenance）\nマジックアイテム\nレアアイテム",
+              "全スキルレベル\nウォーロックの全スキルレベル\n〈火炎〉カテゴリの全スキルレベル\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n〈火炎〉スキルダメージ\n敵の火炎属性耐性減少\n全属性耐性"
+            ],
+            [
+              "鎧",
+              "RW 名誉の連鎖（Chains of Honor）\nRW 隠密（Stealth）\nケ=ヘガンの知恵（Que-Hegan's Wisdom）\nヴァイパーマギの皮（Skin of the Vipermagi）\nスカルダーの激憤（Skullder's Ire）\nタル・ラシャの後見（Tal Rasha's Guardianship）\nホラゾンの支配（Horazon's Dominion）",
+              "全スキルレベル\nウォーロックの全スキルレベル\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n〈火炎〉スキルダメージ\n全属性耐性"
+            ],
+            [
+              "手袋",
+              "トラン=オールの鉤爪（Trang-Oul's Claws）\nチャンス・ガード（Chance Guards）",
+              "〈火炎〉カテゴリの全スキルレベル\nスキル発動速度（FCR）\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\n全属性耐性"
+            ],
+            [
+              "靴",
+              "ウォーターウォーカー（Waterwalk）\nサンドストーム・トレック（Sandstorm Trek）\nウォー・トラベラー（War Traveler）\nアルダーの前進（Aldur's Advance）\nシルクウィーブ（Silkweave）\nホラゾンの遺産（Horazon's Legacy）\nキャスタークラフトアイテム",
+              "移動速度（FRW）\nヒットリカバリー速度（FHR）\n任意の属性耐性\nライフ\nマジックアイテムドロップ率（MF）"
+            ],
+            [
+              "ベルト",
+              "ゴールドラップ（Goldwrap）\n？（Gheed's Wager）\nキャスタークラフトアイテム",
+              "全スキルレベル\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n全属性耐性"
+            ],
+            [
+              "アミュレット",
+              "ライジング・サン（The Rising Sun）\nキャスタークラフトアイテム",
+              "全スキルレベル\nウォーロックの全スキルレベル\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n全属性耐性"
+            ],
+            [
+              "指輪",
+              "ヨルダンの石（Stone of Jordan）\nバル=カソスの結婚指輪（Bul-Kathos' Wedding Band）\nブラッドクラフトアイテム\nレアアイテム",
+              "全スキルレベル\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n〈火炎〉スキルダメージ\n全属性耐性"
+            ]
+          ]
+        },
+        "mercenary": {
+          "header": [
+            "部位",
+            "アイテム名",
+            "備考"
+          ],
+          "rows": [
+            [
+              "メインハンド",
+              "RW 無限（Infinity）",
+              ""
+            ],
+            [
+              "オフハンド",
+              "－",
+              ""
+            ],
+            [
+              "兜",
+              "アンダリエルの面（Andariel's Visage）",
+              "【ソケット】\n宝玉：火炎耐性、攻撃速度（IAS）\nルーン：ラル"
+            ],
+            [
+              "鎧",
+              "RW 不屈（Fortitude）",
+              ""
+            ]
+          ]
+        }
+      }
+    },
+    "W_echoing-strike": {
+      "url": "https://innomaroom.hatenablog.com/entry/diablo2resurrected-warlock-build-echoing-strike",
+      "data": {
+        "skill_tree": {
+          "header": [
+            "カテゴリ",
+            "スキル名",
+            "SLv",
+            "効果",
+            "前提スキル",
+            "ボーナススキル"
+          ],
+          "rows": [
+            [
+              "混沌",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163203.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 炎の輪（Ring of Fire）",
+              "20",
+              "全方向に広がる地獄の炎を一斉に放ち敵を押しのける",
+              "ー",
+              "火の波：火炎ダメージ+10%（レベルごと）\n終焉：火炎ダメージ+10%（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163206.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 火の波（Flame Wave）",
+              "20",
+              "前方に進む炎の波を放ち通った後の地面を燃やす",
+              "炎の輪",
+              "火の波：火炎ダメージ+15%（レベルごと）\n火の波：毎秒の平均火炎ダメージ+10%（レベルごと）\n終焉：火炎ダメージ+15%（レベルごと）\n終焉：毎秒の平均火炎ダメージ+10%（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163230.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 紋章：沈滞（Sigils: Lethargy）",
+              "1",
+              "地面に紋章を描き、敵の動きを鈍らせ、弱体化させる",
+              "ー",
+              "ー"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163227.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 紋章：怨恨（Sigils: Rancor）",
+              "1",
+              "地面に紋章を描き、敵を怒らせて確率で同士討ちさせる",
+              "紋章：沈滞",
+              "ー"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163217.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 紋章：死（Sigils: Death）",
+              "1",
+              "地面に紋章を描き、激しい爆発で負傷した敵の死を早める",
+              "紋章：怨恨",
+              "ー"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163220.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 終焉（Apocalypse）",
+              "20",
+              "全ての敵を炎で包み込むペンタグラムを作成する\n終焉のダメージに対して、敵の火炎耐性を低下させる",
+              "火の波\n紋章：死",
+              "炎の輪：火炎ダメージ+10%（レベルごと）\n火の波：火炎ダメージ+10%（レベルごと）"
+            ],
+            [
+              "悪魔",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163300.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> ゴートマン召喚（Summon Goatman）",
+              "1",
+              "ゴートマンを召喚して戦わせる",
+              "ー",
+              "死の刻印：クラッシング・ブローの確率+1%（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163141.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 死の刻印（Death Mark）",
+              "1",
+              "使役中の悪魔をテレポートさせ、敵を攻撃させる",
+              "ゴートマン召喚",
+              "ー"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163145.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 血瘤腫（Blood Boil）",
+              "1",
+              "使役中の悪魔の血を爆破させ、近くの敵にダメージを与える",
+              "死の刻印",
+              "血の契約：火炎ダメージ+20%（レベルごと）\n貪り：ダメージ+20%（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163148.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 貪り（Engorge）",
+              "1",
+              "使役中の悪魔に死体を食らわせ、回復および強化する",
+              "血瘤腫",
+              "血の契約：防御力+25（レベルごと）\r\n血の契約：ライフ回復+5（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163313.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> テインテッド召喚（Summon Tainted）",
+              "1",
+              "テインテッドを召喚して戦わせる",
+              "ゴートマン召喚",
+              "血瘤腫：火炎ダメージ+30%（レベルごと）"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163303.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 悪魔マスター（Demonic Mastery）",
+              "20（ボーナス込み）",
+              "常時発動 - 召喚および捕縛した悪魔を強化する",
+              "ー",
+              "ー"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163306.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 血の契約（Blood Oath）",
+              "1",
+              "常時発動 - 使役中の悪魔の生命力を固定し敵の攻撃を防ぐ",
+              "悪魔マスター",
+              "ー"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163309.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 捕食（Consume）",
+              "1",
+              "使役中の悪魔を犠牲にして力を得る",
+              "血の契約",
+              "ー"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163317.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> ディファイラー召喚（Summon Defiler）",
+              "1",
+              "ディファイラーを召喚し、敵同士の魂を結びつけダメージを共有させる",
+              "テインテッド召喚",
+              "ー"
+            ],
+            [
+              "",
+              "<img src=\"https://cdn-ak.f.st-hatena.com/images/fotolife/I/Innomaru/20260213/20260213163320.png\" width=\"25\" height=\"25\" loading=\"lazy\" title=\"\" class=\"hatena-fotolife\" itemprop=\"image\" /> 悪魔捕縛（Bind Demon）",
+              "1",
+              "負傷した悪魔を意のままに操る",
+              "貪り\nディファイラー召喚",
+              "死の刻印：悪魔を捕縛する確率+1%（レベルごと）"
+            ],
+            [
+              "合計ポイント",
+              "",
+              "92",
+              "Lv81+クエスト報酬（Lv99時点での余剰ポイント18）",
+              "",
+              ""
+            ]
+          ]
+        },
+        "equip1": {
+          "header": [
+            "部位",
+            "アイテム名",
+            "備考（RWのおすすめベース、RW以外のおすすめソケット）"
+          ],
+          "rows": [
+            [
+              "メインハンドⅠ",
+              "RW 不屈（Fortitude）",
+              "【ベース】サンダー・モール"
+            ],
+            [
+              "オフハンドⅠ",
+              "？（Ars Dul'Mephistos）",
+              "【ソケット】アム・ルーン（全属性耐性）または イスト・ルーン（MF）"
+            ],
+            [
+              "メインハンドⅡ",
+              "RW 神木の心（Heart of the Oak / HotO）",
+              "【ベース】クリスタル・ソード"
+            ],
+            [
+              "オフハンドⅡ",
+              "RW 精霊（Spirit）",
+              "【ベース】モナーク"
+            ],
+            [
+              "兜",
+              "レアアイテム",
+              "【ベース】ダイアデム\n【理想特性】\nウォーロックの全スキルレベル+2\nスキル発動速度（FCR）+20%\nダメージ+45-36\n筋力+30\n全属性耐性+20\n【ソケット】宝玉（ダメージ+）"
+            ],
+            [
+              "鎧",
+              "RW 不知（Enigma）",
+              "【ベース】メイジ・プレート"
+            ],
+            [
+              "手袋",
+              "トラン=オールの鉤爪（Trang-Oul's Claws）",
+              ""
+            ],
+            [
+              "靴",
+              "ゴア・ライダー（Gore Rider）",
+              ""
+            ],
+            [
+              "ベルト",
+              "アラクニド・メッシュ（Arachnid Mesh）",
+              ""
+            ],
+            [
+              "アミュレット",
+              "ハイロードの怒り（Highlord's Wrath）",
+              ""
+            ],
+            [
+              "指輪",
+              "ヨルダンの石（Stone of Jordan）",
+              ""
+            ],
+            [
+              "指輪",
+              "ブラッドクラフトアイテム",
+              ""
+            ],
+            [
+              "護符",
+              "アニヒラス（Annihilus）\n業火のたいまつ（Hellfire Torch）\nギードの運気（Gheed's Fortune）\n骨食み（The Bone Break : Sunder Charm）",
+              "【その他の護符のおすすめ特性】\n〈エルドリッチ〉カテゴリの全スキル+1\nライフ\n任意の属性耐性\nマジックアイテムドロップ率（MF）"
             ]
           ]
         },
