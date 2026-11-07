@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07 15:56:27",
+  "updated_at": "2026-11-07 16:56:24",
   "builds": {
     "W_apocalypse": {
       "url": "https://innomaroom.hatenablog.com/entry/diablo2resurrected-warlock-build-apocalypse",
@@ -275,7 +275,7 @@
             ],
             [
               "ベルト",
-              "ゴールドラップ（Goldwrap）\n？（Gheed's Wager）\nキャスタークラフトアイテム",
+              "キャスタークラフトアイテム\nギードの賭け（Gheed's Wager）\nゴールドラップ（Goldwrap）",
               "【最優先】 \n全スキルレベル\n\n【その他のおすすめ】\n全ステータス\nライフ\nマナ\nマジックアイテムドロップ率（MF）\nスキル発動速度（FCR）\n全属性耐性"
             ],
             [
@@ -841,8 +841,8 @@
           "rows": [
             [
               "メインハンドⅠ",
-              "RW 不屈（Fortitude）",
-              "【ベース】サンダー・モール"
+              "RW 虚無（Void）",
+              "【ベース】レジェンド・スパイク"
             ],
             [
               "オフハンドⅠ",
